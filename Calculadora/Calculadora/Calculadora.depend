@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1514422582 source:c:\users\paulo\documents\calculadora\calculadora\main.cpp
+	<iostream>
+	"Calculadora.h"
+
+1514422630 c:\users\paulo\documents\calculadora\calculadora\include\calculadora.h
+
+1514422684 source:c:\users\paulo\documents\calculadora\calculadora\src\calculadora.cpp
+	"Calculadora.h"
+	<iostream>
+	<iomanip>
+
